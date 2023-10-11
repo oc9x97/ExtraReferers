@@ -95,4 +95,6 @@
     "skribbl.io",
     "trump.tv",
     "download.cnet.com",
+    "doxbin.com",
+    "telegram.org",
     "boyfriend.myanima.ai"  
